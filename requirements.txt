@@ -1,0 +1,2 @@
+Install sys
+Install pyttsx3
